@@ -1,0 +1,1 @@
+Preparar ZIP com links GitHub e YouTube não listado. Conferir integridade e acesso do professor; vídeo de aproximadamente 5 minutos.

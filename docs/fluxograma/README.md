@@ -1,0 +1,1 @@
+Adicionar fluxograma que mostre coleta, comunicação, processamento e resultado/ação.
