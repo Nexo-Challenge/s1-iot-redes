@@ -135,7 +135,7 @@ Sensores (DHT22 & Porta)  --->  Microcontrolador ESP32   --->  Wi-Fi / MQTT / Nu
 
 * **Fluxograma Edição/Visualização (Lucidchart):** [Acessar Fluxograma no Lucidchart](https://lucid.app/lucidchart/57d14a96-74d2-48ed-9cef-5f1bca4090e8/edit?viewport_loc=-552%2C-582%2C3248%2C1758%2C0_0&invitationId=inv_a766faec-91cd-40c2-a006-22d0ae915444)
 
-* **Vídeo Demonstrativo (YouTube):** `[Cole aqui o Link do Vídeo Unlisted no YouTube (Aprox. 5 min)]`
+* **Vídeo Demonstrativo (YouTube):** [Acessar Vídeo Demonstrativo](https://www.youtube.com/watch?v=cKht4znNAaY)
 
   * *Conteúdo do vídeo:* Apresentação do problema, proposta da solução para a Marinha, detalhamento da tecnologia IoT/Redes e explicação didática do fluxograma.
 
