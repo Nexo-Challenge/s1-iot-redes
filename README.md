@@ -18,17 +18,15 @@
 
 * **Turma:** 2TDSPS (Turma de Agosto)
 
-* **Integrantes:**
+* **Integrantes e Responsabilidades:**
 
-  * Alisson Kawan Evangelista Silva | RM: 567598
-
-  * Eduardo Boni dos Santos | RM: 567236
-
-  * Erick Ramos Santos | RM: 567837
-
-  * Kenji Fernandes Wakabayashi | RM: 568156
-
-  * Marcos Vinicius de Jesus Almeida | RM: 567214
+| Nome Completo | RM | Turma | Responsabilidade Principal |
+| :--- | :--- | :--- | :--- |
+| **Alisson Kawan Evangelista Silva** | **RM567598** | 2TDSPS | Java e .NET |
+| **Kenji Fernandes Wakabayashi** | **RM568156** | 2TDSPS | IoT e Banco de Dados (Responsável Principal desta entrega) |
+| **Erick Ramos Santos** | **RM567837** | 2TDSPS | DevOps Tools & Cloud Computing |
+| **Eduardo Boni dos Santos** | **RM567236** | 2TDSPS | Mobile Application Development |
+| **Marcos Vinicius de Jesus Almeida** | **RM567214** | 2TDSPS | Documentação e Qualidade de Software (QA) |
 
 ## 3. Visão Geral do Projeto e Proposta Educativa
 
